@@ -3128,4 +3128,4 @@ Courtesy of Jack Smith, MSU
 Courtesy of Apple
 ```
 
-Thanks to @cartocalypse for some cleaner regex.
+Yikes. Shame on you, Mapcite.
