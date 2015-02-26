@@ -1,10 +1,10 @@
 Recently, Mapcite stole my article (http://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/) which they republished as if it were their own: http://www.mapcite.com/posts/2015/february/bivariate-choropleth-maps-a-how-to-guide.aspx
 
-I was never contact and never gave them permission to do this. They even used my imagery, stealing my bandwidth to advertise their product. As you'll notice, I didn't let this slide.
+I was never contacted and never gave them permission to do this. They even used my imagery and are currently stealing my bandwidth to advertise their product. As you'll notice, I didn't let this slide.
 
-But I also noticed I wasn't alone in being ripped off.
+But I also noticed I wasn't alone in having my content ripped off by Mapcite.
 
-# Did Mapcite steal your content? Here are ~~3,116~~ 3,112 instances of the same 'Courtesy of...' line they used when stealing my article.
+# Did Mapcite steal your content? Here are 3,112 instances of the same 'Courtesy of...' line they used when stealing my article.
 
 I only had a few minutes to spare so I grabbed every occurrence of 'Courtesy of' (cleaned up by @cartocalypse on Twitter).
 
