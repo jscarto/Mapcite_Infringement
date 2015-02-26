@@ -13,6 +13,7 @@ I only had a few min to spare so I grabbed ever occurance of 'Courtesy of' plus 
 
 Even if your name is not on the list, please help content creators by spreading this information, unfollowing @MAPCITE on twitter (if you follow them), and sticking up for copyright holders against this sleazy practice.
 
+```
 Courtesy of Business Insider This chart s
 Courtesy of Views of the World Last we
 Courtesy of Maps Mania   Flight Strea
@@ -3129,3 +3130,4 @@ Courtesy of Fast Company &nbsp; Welco
 Courtesy of Tom Mannering Munching o
 Courtesy of Jack Smith, MSU To achiev
 Courtesy of Apple's products. Hip young 
+```
