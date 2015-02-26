@@ -6,10 +6,15 @@ But I also noticed I wasn't alone in having my content ripped off by Mapcite.
 
 # Did Mapcite steal your content? Here are 3,112 instances of the same 'Courtesy of...' line they used when stealing my article.
 
+When Mapcite steals content, they repost it with a 'Courtesy of' line to falsely imply there was some kind of consent given. Since they use this sketchy technique every single time, it is easy to identify who else has been ripped off and how many times it has happened.
+
 I only had a few minutes to spare so I grabbed every occurrence of 'Courtesy of' (cleaned up by @cartocalypse on Twitter).
+
+If your name is on this list, I encourage you to:
 
 * Find your article on their site
 * Issue a formal [DMCA takedown](https://nppa.org/page/5617) to their host, [WebFusion](http://www.webfusion.com) by contacting their abuse department at [abuse@webfusion.com](mailto:abuse@webfusion.com)
+* Openly call them out on it
 
 Even if your name is not on the list, please help content creators by spreading this information, unfollowing @MAPCITE on twitter (if you follow them), and sticking up for copyright holders against this sleazy practice.
 
