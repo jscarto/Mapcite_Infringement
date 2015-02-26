@@ -4,7 +4,7 @@ I was never contact and never gave them permission to do this. They even used my
 
 But I also noticed I wasn't alone in being ripped off.
 
-# Did Mapcite steal your content? Here are ~3,116~ 3,112 instances of the same 'Courtesy of...' line they used when stealing my article.
+# Did Mapcite steal your content? Here are ~~3,116~~ 3,112 instances of the same 'Courtesy of...' line they used when stealing my article.
 
 I only had a few minutes to spare so I grabbed every occurrence of 'Courtesy of' (cleaned up by @cartocalypse on Twitter).
 
