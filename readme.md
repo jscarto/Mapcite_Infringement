@@ -15,7 +15,7 @@ If your name is on this list, I encourage you to:
 * Find your article on their site
 * Issue a formal [DMCA takedown](https://nppa.org/page/5617) to their host, [WebFusion](http://www.webfusion.com), by contacting their abuse department at [abuse@webfusion.com](mailto:abuse@webfusion.com)
 * Openly call them out on it
-* Check your bandwidth. Since Mapcite is brazenly using your bandwidth, you may have been excessively charged additional fees by your own host.
+* Check your bandwidth. Since Mapcite is brazenly using your bandwidth, you may have been charged additional fees by your web host. *That's money Mapcite owes you*.
 
 Even if your name is not on the list, please help content creators by spreading this information, unfollowing @MAPCITE on twitter (if you follow them), and sticking up for copyright holders against this sleazy practice.
 
