@@ -6,7 +6,7 @@ But I also noticed I wasn't alone in being ripped off like this.
 
 # Did Mapcite steal your content? Here are 3,116 instances of the same 'Courtesy of...' line they used when stealing my article.
 
-I only had a few min to spare so I grabbed ever occurance of 'Courtesy of' plus the next 40 characters. If you're on this list, I encourage you to:
+I only had a few minutes to spare so I grabbed every occurance of 'Courtesy of' plus the next 40 characters. If you're on this list, I encourage you to:
 
 * Find your article on their site
 * Issue a formal [DMCA takedown](https://nppa.org/page/5617) to their host, [WebFusion](http://www.webfusion.com) by contacting their abuse department at [abuse@webfusion.com](mailto:abuse@webfusion.com)
