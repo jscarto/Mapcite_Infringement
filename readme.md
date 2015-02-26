@@ -4,7 +4,7 @@ I was never contacted and never gave them permission to do this. They even used 
 
 But I also noticed I wasn't alone in having my content ripped off by Mapcite.
 
-# Did Mapcite steal your content? Here are 3,112 instances of the same 'Courtesy of...' line they used when stealing my article.
+# Did Mapcite steal your content?
 
 When Mapcite steals content, they repost it with a 'Courtesy of' line to falsely imply there was some kind of consent given. Since they use this sketchy technique every single time, it is easy to identify who else has been ripped off and how many times it has happened.
 
@@ -13,10 +13,13 @@ I only had a few minutes to spare so I grabbed every occurrence of 'Courtesy of'
 If your name is on this list, I encourage you to:
 
 * Find your article on their site
-* Issue a formal [DMCA takedown](https://nppa.org/page/5617) to their host, [WebFusion](http://www.webfusion.com) by contacting their abuse department at [abuse@webfusion.com](mailto:abuse@webfusion.com)
+* Issue a formal [DMCA takedown](https://nppa.org/page/5617) to their host, [WebFusion](http://www.webfusion.com), by contacting their abuse department at [abuse@webfusion.com](mailto:abuse@webfusion.com)
 * Openly call them out on it
+* Check your bandwidth. Since Mapcite is brazenly using your bandwidth, you may have been excessively charged additional fees by your own host.
 
 Even if your name is not on the list, please help content creators by spreading this information, unfollowing @MAPCITE on twitter (if you follow them), and sticking up for copyright holders against this sleazy practice.
+
+# Here are 3,112 instances of others having their work republished in this way by Mapcite:
 
 ```
 Courtesy of Business Insider  
