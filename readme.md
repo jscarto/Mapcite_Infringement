@@ -1,3 +1,5 @@
+
+# Intro
 Recently, Mapcite stole my article (http://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/) which they republished as if it were their own: http://www.mapcite.com/posts/2015/february/bivariate-choropleth-maps-a-how-to-guide.aspx
 
 I was never contacted and never gave them permission to do this. They even used my imagery and are currently stealing my bandwidth to advertise their product. As you'll notice, I didn't let this slide.
@@ -10,7 +12,13 @@ When Mapcite steals content, they repost it with a 'Courtesy of' line to falsely
 
 I only had a few minutes to spare so I grabbed every occurrence of 'Courtesy of' (cleaned up by @cartocalypse on Twitter).
 
-If your name is on this list, I encourage you to:
+![image](mapciteInfringement.png)
+
+# That's only the tip of the iceberg
+
+It turns outs, Mapcite has hijacked the content of *numerous* copyright holders. At the bottom of this page you will find the complete list of everyone affected as of 26 February 2015.
+
+If your name is on the list, I encourage you to:
 
 * Find your article on their site
 * Issue a formal [DMCA takedown](https://nppa.org/page/5617) to their host, [WebFusion](http://www.webfusion.com), by contacting their abuse department at [abuse@webfusion.com](mailto:abuse@webfusion.com)
