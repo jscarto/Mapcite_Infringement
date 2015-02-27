@@ -21,7 +21,7 @@ It turns outs, Mapcite has hijacked the content of *numerous* copyright holders.
 If your name is on the list, I encourage you to:
 
 * Find your article on their site
-* Issue a formal [DMCA takedown](https://nppa.org/page/5617) to their host, [WebFusion](http://www.webfusion.com), by contacting their abuse department at [abuse@webfusion.com](mailto:abuse@webfusion.com)
+* Issue a formal [DMCA takedown](https://nppa.org/page/5617) to their host, [Rackspace](http://www.rackspace.com), by contacting their abuse department at [abuse@rackspace.com](mailto:abuse@rackspace.com)
 * Openly call them out on it
 * Check your bandwidth. Since Mapcite is brazenly using your bandwidth, you may have been charged additional fees by your web host. *That's money Mapcite owes you*.
 
